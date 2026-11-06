@@ -39,7 +39,6 @@ h2 {
     border-radius: 6px;
     margin-top: 1rem;
 }
-
 footer {
     text-align: center;
     padding: 1.5rem;
@@ -47,11 +46,13 @@ footer {
     color: #ffffff;
     margin-top: 2rem;
 /*profile image styling */
-.profile-img{
+}
+.profile-img {
     width: 150px;
-height: 150px
-border: radius 50%; /*make the picture circular */ object-fit:cover;
-display:block;
-margin:0auto 1.5rem auto;/*centers the image */
-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
-] 
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 1.5rem auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
